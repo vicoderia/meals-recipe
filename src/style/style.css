@@ -1,0 +1,30 @@
+    .container {
+        padding-top: 30px;
+    }
+    h1 {
+        color: #009688;
+        font-weight: normal;
+    }
+    .btn {
+        background-color: #009688 !important;
+        color: #fff !important;
+    }
+    .nav-wrapper {
+        background-color: #009688 !important;
+    }
+    .btn:hover {
+        background-color: #4db6ac !important;
+    }
+    image-feature img {
+        width: 100%;
+    }
+    .nav-wrapper p {
+        font-size: 45px;
+        font-weight: 400;
+    }
+    @media all and (max-width: 670px) {
+        .nav-wrapper p {
+            font-size: 30px;
+            font-weight: 400;
+        }
+    }
